@@ -2,7 +2,8 @@
 # GeminiPALM-FAISS-FAQ-Assistant
 
 Flow diagram
-    * CSV/Knowledge Base → Embeddings → FAISS Vector Store → Retriever → Gemini LLM → User Query → Answer
+
+    CSV/Knowledge Base → Embeddings → FAISS Vector Store → Retriever → Gemini LLM → User Query → Answer
 
 ---
 
