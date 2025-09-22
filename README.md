@@ -8,7 +8,7 @@ Flow diagram
 
 ### 2. **Demo Screenshot**
 
-![App Screenshot](App Screenshot.png)
+[![App Screenshot](App Screenshot.png)](https://github.com/akashkanumetta/GeminiRAG-FAQ/blob/main/App%20Screenshot.png)
 
 ---
 
