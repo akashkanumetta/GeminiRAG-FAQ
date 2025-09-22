@@ -49,31 +49,11 @@ User Query → Embeddings → Vector Search (FAISS) → Context → Gemini LLM �
 * **FAISS** – Vector Database
 * **HuggingFace** – Sentence Embeddings
 * **Streamlit** – Web UI
-* **Pandas** – Data Loading
+* **Pandas** – Data Loading.
 
 ---
 
-### 7. **Installation & Setup**
-
-```bash
-# Clone repo
-git clone https://github.com/username/faq-chatbot.git
-cd faq-chatbot
-
-# Create venv
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Add your Google API Key in .env
-echo GOOGLE_API_KEY="your_api_key_here" > .env
-```
-
----
-
-### 8. **Usage**
+### 7. **Usage**
 
 ```bash
 # Run Streamlit app
@@ -85,7 +65,7 @@ streamlit run app.py
 
 ---
 
-### 9. **Project Structure**
+### 8. **Project Structure**
 
 ```
 📦 faq-chatbot
@@ -94,7 +74,7 @@ streamlit run app.py
  ┣ 📜 requirements.txt
  ┣ 📜 gpalm.py
  ┣ 📜 README.md
- ┗ 📂 assets          # Images/screenshots
+ ┗ 📜 App Screenshot.png          # Images/screenshots
 ```
 
 ### 10. **Credits & References**
