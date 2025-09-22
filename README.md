@@ -8,7 +8,7 @@ Flow diagram
 
 ### 2. **Demo Screenshot**
 
-![App Screenshot](assets/app_screenshot.png)
+![App Screenshot](App Screenshot.png)
 
 ---
 
